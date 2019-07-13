@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Reewu_dbModelStoreContainer" CdmEntityContainer="Reewu_dbEntities">
+    <EntitySetMapping Name="PasswordRecoveries">
+      <EntityTypeMapping TypeName="Reewu_dbModel.PasswordRecovery">
+        <MappingFragment StoreEntitySet="PasswordRecovery">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="Reewu_dbModel.Role">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="Reewu_dbModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+          <ScalarProperty Name="UpdatedOn" ColumnName="UpdatedOn" />
+          <ScalarProperty Name="LastLogin" ColumnName="LastLogin" />
+          <ScalarProperty Name="DeviceId" ColumnName="DeviceId" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDelete" ColumnName="IsDelete" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Advertisers">
+      <EntityTypeMapping TypeName="Reewu_dbModel.Advertiser">
+        <MappingFragment StoreEntitySet="Advertiser">
+          <ScalarProperty Name="SlNo" ColumnName="SlNo" />
+          <ScalarProperty Name="Advertiser_ID" ColumnName="Advertiser ID" />
+          <ScalarProperty Name="Advertiser_Name" ColumnName="Advertiser Name" />
+          <ScalarProperty Name="Primary_Region" ColumnName="Primary Region" />
+          <ScalarProperty Name="Membership_Status" ColumnName="Membership Status" />
+          <ScalarProperty Name="Feed_ID" ColumnName="Feed ID" />
+          <ScalarProperty Name="Feed_Name" ColumnName="Feed Name" />
+          <ScalarProperty Name="Language" ColumnName="Language" />
+          <ScalarProperty Name="Vertical" ColumnName="Vertical" />
+          <ScalarProperty Name="Last_Imported" ColumnName="Last Imported" />
+          <ScalarProperty Name="Last_Checked" ColumnName="Last Checked" />
+          <ScalarProperty Name="No_of_products" ColumnName="No of products" />
+          <ScalarProperty Name="URL" ColumnName="URL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AdvretiserCommissions">
+      <EntityTypeMapping TypeName="Reewu_dbModel.AdvretiserCommission">
+        <MappingFragment StoreEntitySet="AdvretiserCommission">
+          <ScalarProperty Name="AdvertiserId" ColumnName="AdvertiserId" />
+          <ScalarProperty Name="Commission_Group" ColumnName="Commission_Group" />
+          <ScalarProperty Name="Commission_Percent" ColumnName="Commission_Percent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductFeeds">
+      <EntityTypeMapping TypeName="Reewu_dbModel.ProductFeed">
+        <MappingFragment StoreEntitySet="ProductFeed">
+          <ScalarProperty Name="SiNo" ColumnName="SiNo" />
+          <ScalarProperty Name="Aw_Deep_Link" ColumnName="Aw_Deep_Link" />
+          <ScalarProperty Name="Product_Name" ColumnName="Product_Name" />
+          <ScalarProperty Name="Aw_Product_Id" ColumnName="Aw_Product_Id" />
+          <ScalarProperty Name="Merchant_Product_Id" ColumnName="Merchant_Product_Id" />
+          <ScalarProperty Name="Merchant_Image_Url" ColumnName="Merchant_Image_Url" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Merchant_Category" ColumnName="Merchant_Category" />
+          <ScalarProperty Name="Search_Price" ColumnName="Search_Price" />
+          <ScalarProperty Name="Merchant_Name" ColumnName="Merchant_Name" />
+          <ScalarProperty Name="Merchant_Id" ColumnName="Merchant_Id" />
+          <ScalarProperty Name="Category_Name" ColumnName="Category_Name" />
+          <ScalarProperty Name="Category_Id" ColumnName="Category_Id" />
+          <ScalarProperty Name="Aw_Image_Url" ColumnName="Aw_Image_Url" />
+          <ScalarProperty Name="Currency" ColumnName="Currency" />
+          <ScalarProperty Name="Store_Price" ColumnName="Store_Price" />
+          <ScalarProperty Name="Delivery_Cost" ColumnName="Delivery_Cost" />
+          <ScalarProperty Name="Merchant_Deep_Link" ColumnName="Merchant_Deep_Link" />
+          <ScalarProperty Name="Language" ColumnName="Language" />
+          <ScalarProperty Name="Last_Updated" ColumnName="Last_Updated" />
+          <ScalarProperty Name="Display_Price" ColumnName="Display_Price" />
+          <ScalarProperty Name="Data_Feed_Id" ColumnName="Data_Feed_Id" />
+          <ScalarProperty Name="Brand_Name" ColumnName="Brand_Name" />
+          <ScalarProperty Name="Brand_Id" ColumnName="Brand_Id" />
+          <ScalarProperty Name="Colour" ColumnName="Colour" />
+          <ScalarProperty Name="Product_Short_Description" ColumnName="Product_Short_Description" />
+          <ScalarProperty Name="Specifications" ColumnName="Specifications" />
+          <ScalarProperty Name="Condition" ColumnName="Condition" />
+          <ScalarProperty Name="Product_Model" ColumnName="Product_Model" />
+          <ScalarProperty Name="Model_Number" ColumnName="Model_Number" />
+          <ScalarProperty Name="Dimensions" ColumnName="Dimensions" />
+          <ScalarProperty Name="Keywords" ColumnName="Keywords" />
+          <ScalarProperty Name="Promotional_Text" ColumnName="Promotional_Text" />
+          <ScalarProperty Name="Product_Type" ColumnName="Product_Type" />
+          <ScalarProperty Name="Commission_Group" ColumnName="Commission_Group" />
+          <ScalarProperty Name="Merchant_Product_Category_Path" ColumnName="Merchant_Product_Category_Path" />
+          <ScalarProperty Name="Merchant_Product_Second_Category" ColumnName="Merchant_Product_Second_Category" />
+          <ScalarProperty Name="Merchant_Product_Third_Category" ColumnName="Merchant_Product_Third_Category" />
+          <ScalarProperty Name="Rrp_Price" ColumnName="Rrp_Price" />
+          <ScalarProperty Name="Saving" ColumnName="Saving" />
+          <ScalarProperty Name="Savings_Percent" ColumnName="Savings_Percent" />
+          <ScalarProperty Name="Base_Price" ColumnName="Base_Price" />
+          <ScalarProperty Name="Base_Price_Amount" ColumnName="Base_Price_Amount" />
+          <ScalarProperty Name="Base_Price_Text" ColumnName="Base_Price_Text" />
+          <ScalarProperty Name="Product_Price_Old" ColumnName="Product_Price_Old" />
+          <ScalarProperty Name="Delivery_Restrictions" ColumnName="Delivery_Restrictions" />
+          <ScalarProperty Name="Delivery_Weight" ColumnName="Delivery_Weight" />
+          <ScalarProperty Name="Warranty" ColumnName="Warranty" />
+          <ScalarProperty Name="Terms_Of_Contract" ColumnName="Terms_Of_Contract" />
+          <ScalarProperty Name="Delivery_Time" ColumnName="Delivery_Time" />
+          <ScalarProperty Name="In_Stock" ColumnName="In_Stock" />
+          <ScalarProperty Name="Stock_Quantity" ColumnName="Stock_Quantity" />
+          <ScalarProperty Name="Valid_From" ColumnName="Valid_From" />
+          <ScalarProperty Name="Valid_To" ColumnName="Valid_To" />
+          <ScalarProperty Name="Is_For_Sale" ColumnName="Is_For_Sale" />
+          <ScalarProperty Name="Web_Offer" ColumnName="Web_Offer" />
+          <ScalarProperty Name="Pre_Order" ColumnName="Pre_Order" />
+          <ScalarProperty Name="Stock_Status" ColumnName="Stock_Status" />
+          <ScalarProperty Name="Size_Stock_Status" ColumnName="Size_Stock_Status" />
+          <ScalarProperty Name="Size_Stock_Amount" ColumnName="Size_Stock_Amount" />
+          <ScalarProperty Name="Merchant_Thumb_Url" ColumnName="Merchant_Thumb_Url" />
+          <ScalarProperty Name="Large_Image" ColumnName="Large_Image" />
+          <ScalarProperty Name="Alternate_Image" ColumnName="Alternate_Image" />
+          <ScalarProperty Name="Aw_Thumb_Url" ColumnName="Aw_Thumb_Url" />
+          <ScalarProperty Name="Alternate_Image_Two" ColumnName="Alternate_Image_Two" />
+          <ScalarProperty Name="Alternate_Image_Three" ColumnName="Alternate_Image_Three" />
+          <ScalarProperty Name="Alternate_Image_Four" ColumnName="Alternate_Image_Four" />
+          <ScalarProperty Name="Reviews" ColumnName="Reviews" />
+          <ScalarProperty Name="Average_Rating" ColumnName="Average_Rating" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+          <ScalarProperty Name="Number_Available" ColumnName="Number_Available" />
+          <ScalarProperty Name="Custom_1" ColumnName="Custom_1" />
+          <ScalarProperty Name="Custom_2" ColumnName="Custom_2" />
+          <ScalarProperty Name="Custom_3" ColumnName="Custom_3" />
+          <ScalarProperty Name="Custom_4" ColumnName="Custom_4" />
+          <ScalarProperty Name="Custom_5" ColumnName="Custom_5" />
+          <ScalarProperty Name="Custom_6" ColumnName="Custom_6" />
+          <ScalarProperty Name="Custom_7" ColumnName="Custom_7" />
+          <ScalarProperty Name="Custom_8" ColumnName="Custom_8" />
+          <ScalarProperty Name="Custom_9" ColumnName="Custom_9" />
+          <ScalarProperty Name="Ean" ColumnName="Ean" />
+          <ScalarProperty Name="Isbn" ColumnName="Isbn" />
+          <ScalarProperty Name="Upc" ColumnName="Upc" />
+          <ScalarProperty Name="Mpn" ColumnName="Mpn" />
+          <ScalarProperty Name="Parent_Product_Id" ColumnName="Parent_Product_Id" />
+          <ScalarProperty Name="Product_GTIN" ColumnName="Product_GTIN" />
+          <ScalarProperty Name="Basket_Link" ColumnName="Basket_Link" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AdvertiserTests">
+      <EntityTypeMapping TypeName="Reewu_dbModel.AdvertiserTest">
+        <MappingFragment StoreEntitySet="AdvertiserTest">
+          <ScalarProperty Name="URL" ColumnName="URL" />
+          <ScalarProperty Name="No_Of_Products" ColumnName="No_Of_Products" />
+          <ScalarProperty Name="LastChecked" ColumnName="LastChecked" />
+          <ScalarProperty Name="LastImported" ColumnName="LastImported" />
+          <ScalarProperty Name="Vertical" ColumnName="Vertical" />
+          <ScalarProperty Name="Language" ColumnName="Language" />
+          <ScalarProperty Name="FeedName" ColumnName="FeedName" />
+          <ScalarProperty Name="FeedID" ColumnName="FeedID" />
+          <ScalarProperty Name="MembershipStatus" ColumnName="MembershipStatus" />
+          <ScalarProperty Name="PrimaryRegion" ColumnName="PrimaryRegion" />
+          <ScalarProperty Name="AdvertiserName" ColumnName="AdvertiserName" />
+          <ScalarProperty Name="AdvertiserID" ColumnName="AdvertiserID" />
+          <ScalarProperty Name="SlNo" ColumnName="SlNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

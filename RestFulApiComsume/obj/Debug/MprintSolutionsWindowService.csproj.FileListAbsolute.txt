@@ -1,0 +1,55 @@
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\bin\Debug\RestFulApiComsume.exe.config
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\bin\Debug\RestFulApiComsume.exe
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\bin\Debug\RestFulApiComsume.pdb
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\bin\Debug\EntityFramework.dll
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\bin\Debug\EntityFramework.SqlServer.dll
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\bin\Debug\MPrintSolutionsServiceBL.dll
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\bin\Debug\Newtonsoft.Json.dll
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\bin\Debug\MPrintSolutionsServiceBL.pdb
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\bin\Debug\MPrintSolutionsServiceBL.dll.config
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\bin\Debug\EntityFramework.xml
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\bin\Debug\EntityFramework.SqlServer.xml
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\bin\Debug\Newtonsoft.Json.xml
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\obj\Debug\MprintSolutionsWindowService.csprojAssemblyReference.cache
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\obj\Debug\MprintSolutionsWindowService.csproj.CoreCompileInputs.cache
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\obj\Debug\MprintSolutionsWindowService.csproj.CopyComplete
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\obj\Debug\RestFulApiComsume.exe
+E:\Windows Service\RestFulApiComsume\RestFulApiComsume\obj\Debug\RestFulApiComsume.pdb
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\RestFulApiComsume.exe.config
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\RestFulApiComsume.exe
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\RestFulApiComsume.pdb
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\EntityFramework.dll
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\MPrintSolutionsServiceBL.dll
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\Newtonsoft.Json.dll
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\MPrintSolutionsServiceBL.pdb
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\MPrintSolutionsServiceBL.dll.config
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\EntityFramework.xml
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\Newtonsoft.Json.xml
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\obj\Debug\MprintSolutionsWindowService.csprojAssemblyReference.cache
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\obj\Debug\MprintSolutionsWindowService.csproj.CoreCompileInputs.cache
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\obj\Debug\MprintSolutionsWindowService.csproj.CopyComplete
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\obj\Debug\RestFulApiComsume.exe
+E:\Project\MprintSolutionsWindowService\RestFulApiComsume\obj\Debug\RestFulApiComsume.pdb
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\RestFulApiComsume.exe.config
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\RestFulApiComsume.exe
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\RestFulApiComsume.pdb
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\EntityFramework.dll
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\EntityFramework.SqlServer.dll
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\MPrintSolutionsServiceBL.dll
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\Newtonsoft.Json.dll
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\MPrintSolutionsServiceBL.pdb
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\MPrintSolutionsServiceBL.dll.config
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\EntityFramework.xml
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\EntityFramework.SqlServer.xml
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\Newtonsoft.Json.xml
+E:\MprintSolutionsWindowService\RestFulApiComsume\obj\Debug\MprintSolutionsWindowService.csprojAssemblyReference.cache
+E:\MprintSolutionsWindowService\RestFulApiComsume\obj\Debug\MprintSolutionsWindowService.csproj.CoreCompileInputs.cache
+E:\MprintSolutionsWindowService\RestFulApiComsume\obj\Debug\MprintSolutionsWindowService.csproj.CopyComplete
+E:\MprintSolutionsWindowService\RestFulApiComsume\obj\Debug\RestFulApiComsume.exe
+E:\MprintSolutionsWindowService\RestFulApiComsume\obj\Debug\RestFulApiComsume.pdb
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\Logs.dll
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\log4net.dll
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\Logs.pdb
+E:\MprintSolutionsWindowService\RestFulApiComsume\bin\Debug\log4net.xml

@@ -1,0 +1,9 @@
+E:\MprintSolutionsWindowService\Logs\obj\Debug\Logs.csproj.CoreCompileInputs.cache
+E:\MprintSolutionsWindowService\Logs\bin\Debug\Logs.dll
+E:\MprintSolutionsWindowService\Logs\bin\Debug\Logs.pdb
+E:\MprintSolutionsWindowService\Logs\bin\Debug\log4net.dll
+E:\MprintSolutionsWindowService\Logs\bin\Debug\log4net.xml
+E:\MprintSolutionsWindowService\Logs\obj\Debug\Logs.csproj.CopyComplete
+E:\MprintSolutionsWindowService\Logs\obj\Debug\Logs.dll
+E:\MprintSolutionsWindowService\Logs\obj\Debug\Logs.pdb
+E:\MprintSolutionsWindowService\Logs\obj\Debug\Logs.csprojAssemblyReference.cache

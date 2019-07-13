@@ -1,0 +1,18 @@
+ERROR 2019-07-05 14:23:29,886 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-05 17:29:48,273 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-05 17:31:00,323 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-05 17:32:57,142 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-05 17:34:49,490 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-05 17:36:05,497 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63

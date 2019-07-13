@@ -1,0 +1,17 @@
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\bin\Debug\RestFulApiComsume.exe.config
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\bin\Debug\RestFulApiComsume.exe
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\bin\Debug\RestFulApiComsume.pdb
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\bin\Debug\EntityFramework.dll
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\bin\Debug\EntityFramework.xml
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\obj\Debug\RestFulApiConsume.csproj.CoreCompileInputs.cache
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\obj\Debug\RestFulApiConsume.csproj.CopyComplete
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\obj\Debug\RestFulApiComsume.exe
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\obj\Debug\RestFulApiComsume.pdb
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\obj\Debug\RestFulApiConsume.csprojAssemblyReference.cache
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\bin\Debug\MPrintSolutionsServiceBL.dll
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\bin\Debug\MPrintSolutionsServiceBL.pdb
+C:\Users\vikask5\source\repos\RestFulApiComsume\RestFulApiComsume\bin\Debug\MPrintSolutionsServiceBL.dll.config

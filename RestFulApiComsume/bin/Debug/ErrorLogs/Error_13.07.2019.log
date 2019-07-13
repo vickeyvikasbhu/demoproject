@@ -1,0 +1,37 @@
+ERROR 2019-07-13 17:11:06,650 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-13 17:23:04,445 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-13 17:23:56,540 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-13 17:24:31,414 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-13 17:55:11,994 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-13 17:57:21,375 [1]  Logs.Logger - Exception from inserting advertiser list detail.
+System.ArgumentException: Keyword not supported: 'metadata'.
+   at System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   at System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   at System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   at System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   at System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   at MPrintSolutionsServiceBL.AdvertisersBL.DownloadAdertisers() in E:\MprintSolutionsWindowService\MPrintSolutionsServiceBL\AdvertisersBL.cs:line 116
+ERROR 2019-07-13 17:57:42,492 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-13 17:59:55,513 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-13 18:01:42,102 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-13 18:16:46,072 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63

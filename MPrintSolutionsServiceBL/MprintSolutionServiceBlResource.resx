@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Active" xml:space="preserve">
+    <value>active</value>
+  </data>
+  <data name="AdvertiserUrl" xml:space="preserve">
+    <value>AdvertiserUrl</value>
+  </data>
+  <data name="Comma" xml:space="preserve">
+    <value>,</value>
+  </data>
+  <data name="CommaDelimeter" xml:space="preserve">
+    <value>%2C</value>
+  </data>
+  <data name="EndDownloadAdvertiser" xml:space="preserve">
+    <value>End from DownloadAdvertiser</value>
+  </data>
+  <data name="EndFecthingAdvertiserListDetail" xml:space="preserve">
+    <value>End from  fecthing advertiser list detail.</value>
+  </data>
+  <data name="EndInsertAdvertiserListDetail" xml:space="preserve">
+    <value>End from inserting advertiser list detail.</value>
+  </data>
+  <data name="EndUpdateAdvertiserListDetail" xml:space="preserve">
+    <value>End from update advertiser list detail.</value>
+  </data>
+  <data name="ExceptionDownloadAdvertiser" xml:space="preserve">
+    <value>Exception from DownloadAdvertiser</value>
+  </data>
+  <data name="ExceptionFecthingAdvertiserListDetail" xml:space="preserve">
+    <value>Exception from fecthing advertiser list detail.</value>
+  </data>
+  <data name="ExceptionInsertAdvertiserListDetail" xml:space="preserve">
+    <value>Exception from inserting advertiser list detail.</value>
+  </data>
+  <data name="ExceptionUpdateAdvertiserListDetail" xml:space="preserve">
+    <value>Exception from update advertiser list detail.</value>
+  </data>
+  <data name="FeedId" xml:space="preserve">
+    <value>FeedId</value>
+  </data>
+  <data name="FeedName" xml:space="preserve">
+    <value>FeedName</value>
+  </data>
+  <data name="FeedNameValue" xml:space="preserve">
+    <value>test</value>
+  </data>
+  <data name="FeedUrl" xml:space="preserve">
+    <value>https://productdata.awin.com/datafeed/download/apikey/77dd7588b893cbfdd0b662fcce5f471c/fid//format/csv/language/en/delimiter/%2C/compression/none/adultcontent/1/columns/aw_deep_link,product_name,aw_product_id,merchant_product_id,merchant_image_url,description,merchant_category,search_price,merchant_name,merchant_id,category_name,category_id,aw_image_url,currency,store_price,delivery_cost,merchant_deep_link,language,last_updated,display_price,data_feed_id,brand_name,brand_id,colour,product_short_description,specifications,condition,product_model,model_number,dimensions,keywords,promotional_text,product_type,commission_group,merchant_product_category_path,merchant_product_second_category,merchant_product_third_category,rrp_price,saving,savings_percent,base_price,base_price_amount,base_price_text,product_price_old,delivery_restrictions,delivery_weight,warranty,terms_of_contract,delivery_time,in_stock,stock_quantity,valid_from,valid_to,is_for_sale,web_offer,pre_order,stock_status,size_stock_status,size_stock_amount,merchant_thumb_url,large_image,alternate_image,aw_thumb_url,alternate_image_two,alternate_image_three,alternate_image_four,reviews,average_rating,rating,number_available,custom_1,custom_2,custom_3,custom_4,custom_5,custom_6,custom_7,custom_8,custom_9,ean,isbn,upc,mpn,parent_product_id,product_GTIN,basket_link/</value>
+  </data>
+  <data name="GetActiveAdvertisers" xml:space="preserve">
+    <value>SELECT * FROM ADVERTISER WHERE MEMBERSHIPSTATUS = 'active '</value>
+  </data>
+  <data name="Gzip" xml:space="preserve">
+    <value>gzip</value>
+  </data>
+  <data name="Insert_AdvertiserList" xml:space="preserve">
+    <value>Insert_Advertiser</value>
+  </data>
+  <data name="LastImported" xml:space="preserve">
+    <value>lastImported</value>
+  </data>
+  <data name="MembershipStatus" xml:space="preserve">
+    <value>MembershipStatus</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>none</value>
+  </data>
+  <data name="Parameter_dt" xml:space="preserve">
+    <value>@dt</value>
+  </data>
+  <data name="ReewuDbCon" xml:space="preserve">
+    <value>ReewuDbCon</value>
+  </data>
+  <data name="StartDownloadAdvertiser" xml:space="preserve">
+    <value>Start in DownloadAdvertiser</value>
+  </data>
+  <data name="StartFecthingAdvertiserListDetail" xml:space="preserve">
+    <value>Start in fecthing advertiser list detail.</value>
+  </data>
+  <data name="StartInsertAdvertiserListDetail" xml:space="preserve">
+    <value>Start in inserting advertiser list detail.</value>
+  </data>
+  <data name="StartUpdateAdvertiserListDetail" xml:space="preserve">
+    <value>Start in update advertiser list detail.</value>
+  </data>
+  <data name="Update_AdvertiserList" xml:space="preserve">
+    <value>Update_AdvertiserList</value>
+  </data>
+  <data name="Url" xml:space="preserve">
+    <value>https://productdata.awin.com/datafeed/download/apikey/77dd7588b893cbfdd0b662fcce5f471c/fid//format/csv/language/en/delimiter/%2C/compression/none/adultcontent/1/columns/Aw_Deep_Link,Product_Name,Aw_Product_Id,Merchant_Product_Id,Merchant_Image_Url,Description,Merchant_Category,Search_Price,Merchant_Name,Merchant_Id,Category_Name,Category_Id,Aw_Image_Url,Currency,Store_Price,Delivery_Cost,Merchant_Deep_Link,Language,Last_Updated,Display_Price,Data_Feed_Id,	Brand_Name,Brand_Id,Colour,Product_Short_Description,Specifications,Condition,Product_Model,Model_Number,Dimensions,Keywords,Promotional_Text,Product_Type,Commission_Group,Merchant_Product_Category_Path,Merchant_Product_Second_Category,Merchant_Product_Third_Category,Rrp_Price,Saving,Savings_Percent,Base_Price,Base_Price_Amount,Base_Price_Text,Product_Price_Old,Delivery_Restrictions,Delivery_Weight,Warranty,Terms_Of_Contract,Delivery_Time,In_Stock,Stock_Quantity,Valid_From,Valid_To,Is_For_Sale,Web_Offer,Pre_Order,Stock_Status,Size_Stock_Status,Size_Stock_Amount,Merchant_Thumb_Url,Large_Image,Alternate_Image,Aw_Thumb_Url,Alternate_Image_Two,Alternate_Image_Three,Alternate_Image_Four,Reviews,Average_Rating,Rating,Number_Available,Custom_1,Custom_2,Custom_3,Custom_4,Custom_5,Custom_6,Custom_7,Custom_8,Custom_9,Ean,Isbn,Upc,Mpn,Parent_Product_Id,Product_GTIN,Basket_Link/</value>
+  </data>
+</root>

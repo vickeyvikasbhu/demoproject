@@ -1,0 +1,37 @@
+ERROR 2019-07-04 15:53:14,972 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-04 15:57:21,428 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-04 15:58:36,057 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-04 16:32:35,197 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-04 16:34:23,884 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-04 16:34:26,111 [1]  Logs.Logger - Exception from inserting advertiser list detail.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.SqlClient.SqlConnection.PermissionDemand()
+   at System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at MPrintSolutionsServiceBL.AdvertisersBL.DownloadAdertisers() in E:\MprintSolutionsWindowService\MPrintSolutionsServiceBL\AdvertisersBL.cs:line 117
+ERROR 2019-07-04 18:55:55,410 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-04 22:08:56,503 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-04 22:19:15,709 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
+ERROR 2019-07-04 22:49:17,014 [1]  Logs.Logger - Error
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Logs.Logger.CanTracing() in E:\MprintSolutionsWindowService\Logs\Logger.cs:line 63
